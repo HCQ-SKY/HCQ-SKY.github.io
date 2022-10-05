@@ -1,16 +1,24 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
-        <link>http://example.com</link>
-        <description></description>
-        <language>en</language>
-        <pubDate>Tue, 04 Oct 2022 17:12:48 +0800</pubDate>
-        <lastBuildDate>Tue, 04 Oct 2022 17:12:48 +0800</lastBuildDate>
+        <title>个人博客</title>
+        <link>http://huangchunqiao2120212629.github.io</link>
+        <description>絵画手账&amp;编程笔录</description>
+        <language>zh-CN</language>
+        <pubDate>Wed, 05 Oct 2022 18:34:10 +0800</pubDate>
+        <lastBuildDate>Wed, 05 Oct 2022 18:34:10 +0800</lastBuildDate>
         <item>
-            <guid isPermalink="true">http://example.com/2022/10/04/hello-world/</guid>
+            <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/</guid>
+            <title>yaha</title>
+            <link>http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/</link>
+            <pubDate>Wed, 05 Oct 2022 18:34:10 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;P 站图集&lt;/p&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/04/hello-world/</guid>
             <title>Hello World</title>
-            <link>http://example.com/2022/10/04/hello-world/</link>
+            <link>http://huangchunqiao2120212629.github.io/2022/10/04/hello-world/</link>
             <pubDate>Tue, 04 Oct 2022 17:12:48 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;Welcome to &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvLw==&#34;&gt;Hexo&lt;/span&gt;! This is your very first post. Check &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3Mv&#34;&gt;documentation&lt;/span&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9oZXhvLmlvL2RvY3MvdHJvdWJsZXNob290aW5nLmh0bWw=&#34;&gt;troubleshooting&lt;/span&gt; or you can ask me on &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvL2lzc3Vlcw==&#34;&gt;GitHub&lt;/span&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;markdownIt-Anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
