@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "个人博客",
+    "title": "网页制作推进中（30%）",
     "subtitle": "",
     "icon": "http://huangchunqiao2120212629.github.io/images/favicon.ico",
     "description": "絵画手账&编程笔录",
@@ -9,9 +9,9 @@
         {
             "id": "http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/",
             "url": "http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/",
-            "title": "yaha",
+            "title": "PIXIV图集",
             "date_published": "2022-10-05T10:34:10.514Z",
-            "content_html": "<p>P 站图集</p>\n",
+            "content_html": "",
             "tags": []
         },
         {

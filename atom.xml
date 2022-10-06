@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://huangchunqiao2120212629.github.io</id>
-    <title>个人博客</title>
+    <title>网页制作推进中（30%）</title>
     <subtitle></subtitle>
     <icon>http://huangchunqiao2120212629.github.io/images/favicon.ico</icon>
     <link href="http://huangchunqiao2120212629.github.io" />
@@ -16,10 +16,9 @@
     <category term="North-Zero" />
     <entry>
         <id>http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/</id>
-        <title>yaha</title>
+        <title>PIXIV图集</title>
         <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/"/>
-        <content type="html">&lt;p&gt;P 站图集&lt;/p&gt;
-</content>
+        <content type="html"></content>
         <updated>2022-10-05T10:34:10.514Z</updated>
     </entry>
     <entry>

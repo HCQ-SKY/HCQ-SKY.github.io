@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>个人博客</title>
+        <title>网页制作推进中（30%）</title>
         <subtitle></subtitle>
         <icon>http://huangchunqiao2120212629.github.io/images/favicon.ico</icon>
         <link>http://huangchunqiao2120212629.github.io</link>
@@ -19,11 +19,10 @@
         <category term="North-Zero" />
         <item>
             <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/</guid>
-            <title>yaha</title>
+            <title>PIXIV图集</title>
             <link>http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/</link>
             <pubDate>Wed, 05 Oct 2022 18:34:10 +0800</pubDate>
-            <description><![CDATA[ &lt;p&gt;P 站图集&lt;/p&gt;
- ]]></description>
+            <description><![CDATA[  ]]></description>
         </item>
         <item>
             <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/04/hello-world/</guid>
