@@ -1,25 +1,248 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://huangchunqiao2120212629.github.io</id>
-    <title>网页制作推进中（30%）</title>
+    <title>网页制作推进中（50%）</title>
     <subtitle>最近网页制作中有许多硬核问题以及我个人想折腾的新想法，网页推进进度可能较慢，请耐心等待</subtitle>
     <icon>http://huangchunqiao2120212629.github.io/images/favicon.ico</icon>
     <link href="http://huangchunqiao2120212629.github.io" />
     <author>
       <name>North-Zero</name>
     </author>
-    <updated>2022-10-05T10:34:10.514Z</updated>
+    <updated>2022-10-07T11:40:25.000Z</updated>
     <category term="笔记" />
     <category term="编程" />
     <category term="绘画" />
     <category term="theme" />
     <category term="North-Zero" />
     <entry>
-        <id>http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/</id>
-        <title>PIXIV图集</title>
-        <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/05/pixiv/yaha/"/>
-        <content type="html"></content>
-        <updated>2022-10-05T10:34:10.514Z</updated>
+        <id>http://huangchunqiao2120212629.github.io/2022/10/07/sample_reels/</id>
+        <title>绘画作品展示</title>
+        <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/07/sample_reels/"/>
+        <content type="html">&lt;p&gt;下次一定&lt;/p&gt;
+</content>
+        <category term="绘画" scheme="http://huangchunqiao2120212629.github.io/categories/painting/" />
+        <updated>2022-10-07T11:40:25.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://huangchunqiao2120212629.github.io/2022/10/07/statement/</id>
+        <title>公告</title>
+        <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/07/statement/"/>
+        <content type="html">&lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;精选分类功能已增加&lt;/li&gt;
+&lt;li&gt;twitter QQ 邮箱 bilibili 链接已新增&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="statement" scheme="http://huangchunqiao2120212629.github.io/categories/statement/" />
+        <updated>2022-10-07T11:35:43.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://huangchunqiao2120212629.github.io/2022/10/07/system/</id>
+        <title>进制转换</title>
+        <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/07/system/"/>
+        <content type="html">&lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
+&lt;p&gt;进制转换老是会忘，在此简单做个记录&lt;/p&gt;
+&lt;h2 id=&#34;十进制转换成二进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十进制转换成二进制&#34;&gt;#&lt;/a&gt; 十进制转换成二进制&lt;/h2&gt;
+&lt;p&gt;eg: 150 的二进制表示为：10010110&lt;br /&gt;
+ 具体转换方法如下（除法运算）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;    2|150
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;      2|75------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;        2|37------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;          2|18------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;            2|9------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;              2|4------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                2|2------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                  2|1------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                    2|1------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                      0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;[注：余数倒序输出]&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                         结果：10010110
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二进制转换成十进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二进制转换成十进制&#34;&gt;#&lt;/a&gt; 二进制转换成十进制&lt;/h2&gt;
+&lt;p&gt;以 10010110 为例&lt;br /&gt;
+ 1×2^7 + 1*2^6 +……+ 1×2^2 + 1×2^1 + 1×2^0 = 150&lt;/p&gt;
+&lt;h2 id=&#34;八进制转换成二进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#八进制转换成二进制&#34;&gt;#&lt;/a&gt; 八进制转换成二进制&lt;/h2&gt;
+&lt;p&gt;eg: 226 的二进制表示为：10010110&lt;br /&gt;
+ 具体转换方法如下（除法运算）：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;       2                 2                 6     
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;     2|2                  2|2                  2|6                  
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;       2|1------0           2|1------0           2|3------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;          0------1             0------1            2|1------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                                                      0------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;[注：余数倒序输出，不足在左端补零]&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;            0 1 0                0 1 0                  1 1 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                          组合后结果：10010110
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二进制转换成八进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#二进制转换成八进制&#34;&gt;#&lt;/a&gt; 二进制转换成八进制&lt;/h2&gt;
+&lt;p&gt;以 10010110 为例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[同上，不足补零]&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;            0 1 0                0 1 0                  1 1 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;0×2^2 + 1×2^1 + 0×2^0=2     0×2^2 + 1×2^1 + 0×2^0=2       1×2^2 + 1×2^1 + 0×2^0=6&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                          组合后结果：226
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;十六进制转换成二进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十六进制转换成二进制&#34;&gt;#&lt;/a&gt; 十六进制转换成二进制&lt;/h2&gt;
+&lt;p&gt;以 12C 为例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;        1                    2                     C
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;       2|1                  2|2                    2|12
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;         0------1             2|1------0             2|6------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                                 0 ------1             2|3------0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                                                         2|1------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                                                           0 ------1
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;[注：余数倒序输出，不足在左端补零]&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;            0 0 0 1             0 0 1 0                   1 1 0 0
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                           组合后结果：100101100
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;十进制转换成八进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十进制转换成八进制&#34;&gt;#&lt;/a&gt; 十进制转换成八进制&lt;/h2&gt;
+&lt;p&gt;以 150 为例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;         8|150
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;           8|18------6
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;             8|2------2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;               0  ------2
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                结果为：226
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;八进制转换成二进制-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#八进制转换成二进制-2&#34;&gt;#&lt;/a&gt; 八进制转换成二进制&lt;/h2&gt;
+&lt;p&gt;以 226 为例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;     2×8^2 + 2×8^1 + 6×8^0=150
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;十进制转换成十六进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十进制转换成十六进制&#34;&gt;#&lt;/a&gt; 十进制转换成十六进制&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;         16|150
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;           16|9------6
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;               0 ------9
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;                 结果为：96
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;十六进制转换成十进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十六进制转换成十进制&#34;&gt;#&lt;/a&gt; 十六进制转换成十进制&lt;/h2&gt;
+&lt;p&gt;以 96 为例&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;pre&gt;&lt;code&gt;         9×16^1 + 6×16^0=150      &lt;/code&gt;&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="编程" scheme="http://huangchunqiao2120212629.github.io/categories/programming/" />
+        <updated>2022-10-07T11:30:15.000Z</updated>
     </entry>
     <entry>
         <id>http://huangchunqiao2120212629.github.io/2022/10/04/hello-world/</id>
