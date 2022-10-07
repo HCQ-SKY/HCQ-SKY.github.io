@@ -21,7 +21,7 @@
             "url": "http://huangchunqiao2120212629.github.io/2022/10/07/statement/",
             "title": "公告",
             "date_published": "2022-10-07T11:35:43.000Z",
-            "content_html": "<h1 id=\"markdownnote\"><a class=\"anchor\" href=\"#markdownnote\">#</a> MarkdownNote</h1>\n<ul>\n<li>精选分类功能已增加</li>\n<li>twitter QQ 邮箱 bilibili 链接已新增</li>\n</ul>\n",
+            "content_html": "<h1 id=\"markdownnote\"><a class=\"anchor\" href=\"#markdownnote\">#</a> MarkdownNote</h1>\n<ul>\n<li>精选分类功能已增加</li>\n<li>twitter QQ 邮箱 bilibili 链接已新增</li>\n<li>评论功能我试了一下，是可以用的。但就 “能用” 这一点还是有点蒙，毕竟涉及评论的认证有一部分我还没搞，这个功能究竟如何还不清楚</li>\n</ul>\n",
             "tags": [
                 "statement"
             ]
