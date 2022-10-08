@@ -56,13 +56,7 @@
         <id>http://huangchunqiao2120212629.github.io/2022/10/07/statement/</id>
         <title>公告</title>
         <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/07/statement/"/>
-        <content type="html">&lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
-&lt;ul&gt;
-&lt;li&gt;精选分类功能已增加&lt;/li&gt;
-&lt;li&gt;twitter QQ 邮箱 bilibili 链接已新增&lt;/li&gt;
-&lt;li&gt;评论功能我试了一下，是可以用的。但就 “能用” 这一点还是有点蒙，毕竟涉及评论的认证有一部分我还没搞，这个功能究竟如何还不清楚&lt;/li&gt;
-&lt;/ul&gt;
-</content>
+        <content type="html"></content>
         <category term="statement" scheme="http://huangchunqiao2120212629.github.io/categories/statement/" />
         <updated>2022-10-07T11:35:43.000Z</updated>
     </entry>
@@ -71,7 +65,7 @@
         <title>进制转换</title>
         <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/07/system/"/>
         <content type="html">&lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
-&lt;p&gt;进制转换老是会忘，在此简单做个记录&lt;/p&gt;
+&lt;p&gt;在此简单对进制转换做个记录&lt;/p&gt;
 &lt;h2 id=&#34;十进制转换成二进制&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#十进制转换成二进制&#34;&gt;#&lt;/a&gt; 十进制转换成二进制&lt;/h2&gt;
 &lt;p&gt;eg: 150 的二进制表示为：10010110&lt;br /&gt;
  具体转换方法如下（除法运算）：&lt;/p&gt;
