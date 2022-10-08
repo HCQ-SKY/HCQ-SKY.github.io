@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>http://huangchunqiao2120212629.github.io</id>
-    <title>网页搭建推进中（50%）</title>
+    <title>网页搭建推进中（70%）</title>
     <subtitle>最近网页搭建中有许多硬核问题以及我个人想折腾的新想法，网页搭建进度可能较慢，请耐心等待</subtitle>
     <icon>http://huangchunqiao2120212629.github.io/images/favicon.ico</icon>
     <link href="http://huangchunqiao2120212629.github.io" />
@@ -16,9 +16,38 @@
     <category term="North-Zero" />
     <entry>
         <id>http://huangchunqiao2120212629.github.io/2022/10/07/sample_reels/</id>
-        <title>绘画作品展示</title>
+        <title>HCQ的手绘</title>
         <link rel="alternate" href="http://huangchunqiao2120212629.github.io/2022/10/07/sample_reels/"/>
-        <content type="html">&lt;p&gt;下次一定&lt;/p&gt;
+        <content type="html">&lt;h1 id=&#34;声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声明&#34;&gt;#&lt;/a&gt; 声明&lt;/h1&gt;
+&lt;p&gt;我个人只是将绘画当做一种娱乐的爱好，没有经历过任何专业的学习，所以在技术上存在很多欠缺，还请诸位见谅。虽然画的不多（所有的存稿都展示在这里了），但我还是非常喜欢画画的，往后在时间和精力都允许的情况下，一定增进自身技术的。最后祝大家玩的开心！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;注意：以下所有图片在时间上最近的都会展示在顶部&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;褶皱练习二次加工&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#褶皱练习二次加工&#34;&gt;#&lt;/a&gt; 褶皱练习（二次加工）&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/LKtBwRglNW57G8S.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;暑假当时浏览了国内外好多画师的作品，他们当中很多人的褶皱处理都非常厉害，于是抱着好奇的心态试了一下&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;闪光亚丝娜&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#闪光亚丝娜&#34;&gt;#&lt;/a&gt; 闪光亚丝娜&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/HzJcjFZlk4CohTB.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;第一次学会了铅笔的涂色控制，打从心底的高兴&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;机甲之随随便便原创&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#机甲之随随便便原创&#34;&gt;#&lt;/a&gt; 机甲之随随便便（原创）&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/TcMUOLNPiKq19JE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;画的时候，清楚的记得当时下着大雨，莫名感到低落&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;战损机甲原创&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#战损机甲原创&#34;&gt;#&lt;/a&gt; 战损机甲（原创）&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/QkhvEtoNU3YrgSf.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;大一刚进入画社时，心血来潮画了一张&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;简笔坦克原创&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#简笔坦克原创&#34;&gt;#&lt;/a&gt; 简笔坦克（原创）&lt;/h2&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/aoOCLhwUpZzKXsP.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;高中时候画的，嘿嘿，没想到还能侥幸翻找到，不过也就幸存这一张了。这张图高二下学期画了一半，余下的一半在高三下学期完成&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </content>
         <category term="绘画" scheme="http://huangchunqiao2120212629.github.io/categories/painting/" />
         <updated>2022-10-07T11:40:25.000Z</updated>
