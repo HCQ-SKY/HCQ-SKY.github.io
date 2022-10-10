@@ -3,8 +3,8 @@
     <channel>
         <title>筆下頃夢輝</title>
         <subtitle>晨起辰落</subtitle>
-        <icon>http://huangchunqiao2120212629.github.io/images/favicon.ico</icon>
-        <link>http://huangchunqiao2120212629.github.io</link>
+        <icon>http://hcq-sky.github.io/images/favicon.ico</icon>
+        <link>http://HCQ-SKY.github.io</link>
         <author>
           <name>North-Zero</name>
         </author>
@@ -18,10 +18,10 @@
         <category term="theme" />
         <category term="North-Zero" />
         <item>
-            <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/07/sample_reels/</guid>
+            <guid isPermalink="true">http://hcq-sky.github.io/2022/10/07/sample_reels/</guid>
             <title>HCQ的手绘</title>
-            <link>http://huangchunqiao2120212629.github.io/2022/10/07/sample_reels/</link>
-            <category term="绘画" scheme="http://huangchunqiao2120212629.github.io/categories/painting/" />
+            <link>http://hcq-sky.github.io/2022/10/07/sample_reels/</link>
+            <category term="绘画" scheme="http://hcq-sky.github.io/categories/painting/" />
             <pubDate>Fri, 07 Oct 2022 19:40:25 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声明&#34;&gt;#&lt;/a&gt; 声明&lt;/h1&gt;
 &lt;p&gt;我个人只是将绘画当做一种娱乐的爱好，没有经历过任何专业的学习，所以在技术上存在很多欠缺，还请诸位见谅。虽然画的不多（所有的存稿都展示在这里了），但我还是非常喜欢画画的，往后在时间和精力都允许的情况下，一定增进自身技术的。最后祝大家玩的开心！&lt;/p&gt;
@@ -41,7 +41,7 @@
 &lt;h2 id=&#34;机甲之随随便便原创&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#机甲之随随便便原创&#34;&gt;#&lt;/a&gt; 机甲之随随便便（原创）&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/TcMUOLNPiKq19JE.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;画的时候，清楚的记得当时下着大雨，莫名感到低落&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;&#34;&gt;画的时候，清楚的记得当时下着大雨，说白了，就是闲着没事哈哈哈&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;战损机甲原创&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#战损机甲原创&#34;&gt;#&lt;/a&gt; 战损机甲（原创）&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/08/QkhvEtoNU3YrgSf.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
@@ -56,10 +56,20 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/07/statement/</guid>
+            <guid isPermalink="true">http://hcq-sky.github.io/2022/10/07/friends/friends/</guid>
+            <title>friends</title>
+            <link>http://hcq-sky.github.io/2022/10/07/friends/friends/</link>
+            <pubDate>Fri, 07 Oct 2022 19:40:25 +0800</pubDate>
+            <description><![CDATA[ &lt;ul&gt;
+&lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93cHBsei5naXRodWIuaW8v&#34;&gt;鹏哥&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+ ]]></description>
+        </item>
+        <item>
+            <guid isPermalink="true">http://hcq-sky.github.io/2022/10/07/statement/</guid>
             <title>公告</title>
-            <link>http://huangchunqiao2120212629.github.io/2022/10/07/statement/</link>
-            <category term="statement" scheme="http://huangchunqiao2120212629.github.io/categories/statement/" />
+            <link>http://hcq-sky.github.io/2022/10/07/statement/</link>
+            <category term="statement" scheme="http://hcq-sky.github.io/categories/statement/" />
             <pubDate>Fri, 07 Oct 2022 19:35:43 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;no1-本网页纯娱乐&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#no1-本网页纯娱乐&#34;&gt;#&lt;/a&gt; NO.1 本网页纯娱乐&lt;/h1&gt;
 &lt;h1 id=&#34;no2-部分标签功能未开放&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#no2-部分标签功能未开放&#34;&gt;#&lt;/a&gt; NO.2 部分标签功能未开放&lt;/h1&gt;
@@ -70,10 +80,10 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">http://huangchunqiao2120212629.github.io/2022/10/07/system/</guid>
+            <guid isPermalink="true">http://hcq-sky.github.io/2022/10/07/system/</guid>
             <title>进制转换</title>
-            <link>http://huangchunqiao2120212629.github.io/2022/10/07/system/</link>
-            <category term="Computer Basics" scheme="http://huangchunqiao2120212629.github.io/categories/programming/" />
+            <link>http://hcq-sky.github.io/2022/10/07/system/</link>
+            <category term="Computer Basics" scheme="http://hcq-sky.github.io/categories/programming/" />
             <pubDate>Fri, 07 Oct 2022 19:30:15 +0800</pubDate>
             <description><![CDATA[ &lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
 &lt;p&gt;在此简单对进制转换做个记录&lt;/p&gt;
