@@ -20,9 +20,9 @@
         <link rel="alternate" href="http://hcq-sky.github.io/2022/10/07/sample_reels/"/>
         <content type="html">&lt;h1 id=&#34;声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#声明&#34;&gt;#&lt;/a&gt; 声明&lt;/h1&gt;
 &lt;p&gt;我个人只是将绘画当做一种娱乐的爱好，没有经历过任何专业的学习，所以在技术上存在很多欠缺，还请诸位见谅。虽然画的不多（所有的存稿都展示在这里了），但我还是非常喜欢画画的，往后在时间和精力都允许的情况下，一定增进自身技术的。最后祝大家玩的开心！&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;&#34;&gt;注：以下所有图片在时间上最近的都会展示在顶部&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+&lt;div class=&#34;note info&#34;&gt;
+&lt;p&gt;注：以下所有图片在时间上最近的都会展示在顶部&lt;/p&gt;
+&lt;/div&gt;
 &lt;h2 id=&#34;电锯人针管笔&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#电锯人针管笔&#34;&gt;#&lt;/a&gt; 电锯人 (针管笔)&lt;/h2&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://s2.loli.net/2022/10/16/3l4gPi2v6NfGkOr.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -67,6 +67,14 @@
 &lt;h1 id=&#34;no4-有关绘画方面的文章我会不定期更新的嗯没问题我不会溜的大概&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#no4-有关绘画方面的文章我会不定期更新的嗯没问题我不会溜的大概&#34;&gt;#&lt;/a&gt; NO.4 有关绘画方面的文章我会不定期更新的，嗯，没问题，我不会溜的，大概&lt;/h1&gt;
 &lt;h1 id=&#34;no5-有想法的在评论区留言一定要绅士哦我给你们加标签&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#no5-有想法的在评论区留言一定要绅士哦我给你们加标签&#34;&gt;#&lt;/a&gt; NO.5 有想法的在评论区留言（一定要绅士哦，），我给你们加标签&lt;/h1&gt;
 &lt;h1 id=&#34;no6-最后祝大家玩的开心永远爱你们的hcq&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#no6-最后祝大家玩的开心永远爱你们的hcq&#34;&gt;#&lt;/a&gt; NO.6 最后祝大家玩的开心 —————— 永远爱你们的&lt;a href=&#34;&#34;&gt; HCQ&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;
+{% media video %}
+video:
+   - name: &#34;测试1&#34;
+     url: 
+     - https://cdn.kastatic.org/ka-youtube-converted/O_nY1TM2RZM.mp4/O_nY1TM2RZM.mp4#t=0
+{% endmedia %}
+&lt;/p&gt;
 </content>
         <category term="statement" scheme="http://hcq-sky.github.io/categories/statement/" />
         <updated>2022-10-07T11:35:43.000Z</updated>
