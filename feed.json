@@ -7,6 +7,24 @@
     "home_page_url": "http://HCQ-SKY.github.io",
     "items": [
         {
+            "id": "http://hcq-sky.github.io/2024/04/14/system02/",
+            "url": "http://hcq-sky.github.io/2024/04/14/system02/",
+            "title": "Oracle部分笔记",
+            "date_published": "2024-04-14T05:37:15.000Z",
+            "content_html": "<h1 id=\"markdownnote\"><a class=\"anchor\" href=\"#markdownnote\">#</a> MarkdownNote</h1>\n<p>在此简单对 Oracle 做个记录</p>\n",
+            "tags": [
+                "Computer Basics"
+            ]
+        },
+        {
+            "id": "http://hcq-sky.github.io/2023/05/05/exercise/",
+            "url": "http://hcq-sky.github.io/2023/05/05/exercise/",
+            "title": "",
+            "date_published": "2023-05-05T06:38:12.258Z",
+            "content_html": "<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=true\">\n    <title>Title</title>\n    <style>\n        body {\n            background-image: linear-gradient(to bottom right,\n                    #91defe,\n                    #99c0f9,\n                    #bdb6ec,\n                    #d7b3e3,\n                    #efb3d5,\n                    #f9bccc);\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            justify-content: center;\n            height: 100vh;\n            overflow: hidden;\n        }\n\n        .box {\n            position: absolute;\n            display: flex;\n            flex-direction: column;\n            align-items: center;\n            justify-content: center;\n            height: 500px;\n            left: 50%;\n            top: 50%;\n            transform: translate(-50%, -50%);\n        }\n\n        .ball {\n            animation: float 3.5s ease-in-out infinite;\n            height: 200px;\n            width: 200px;\n            border-radius: 50%;\n            position: relative;\n            background: radial-gradient(circle at 77% 30%,\n            white 5px,\n            aqua 8%,\n            darkblue 60%,\n            aqua 100%);\n            box-shadow: inset 0 0 20px #fff,\n            inset 10px 0 46px #eaf5fc,\n            inset 88px 0px 60px #c2d8fe,\n            inset -20px -60px 100px #fde9ea,\n            inset 0 50px 140px #fde9ea,\n            0 0 90px #fff;\n        }\n\n        .box:nth-child(2) {\n            z-index:-999;\n        }\n\n        .box:nth-child(2).ball{\n            left: -80px;\n            top: 35px;\n            width: 100px;\n            height: 100px;\n            z-index: -999;\n            opacity: .5;\n        }\n\n        .box:nth-child(3).ball{\n            left: 80px;\n            top: -80px;\n            width: 20px;\n            height: 20px;\n            opacity: .1;\n        }\n\n        .shadow{\n            background: #b490b27c;\n            width: 150;\n            height: 40px;\n            top: 70%;\n            animation: expand 4s infinite;\n            position: absolute;\n            border-radius: 50%;\n        }\n\n        .box:nth-child(2).shadow{\n            width: 90px;\n            height: 20px;\n            top: 72.5%;\n            left: -75px;\n            opacity: .4;\n        }\n        \n        @keyframes float{\n            0% {\n                transform: translateY(0px) rotate(-10deg);\n            }\n\n            50% {\n                transform: translateY(-80px) rotate(10deg);\n            }\n\n            100%{\n                transform: translateY(0px) rotate(-10deg);\n            }\n        }\n\n        @keyframes expand {\n            \n            0%,\n            100% {\n                transform: scale(0.5);\n            }\n\n            50% {\n                transform: scale(1);\n            }\n        }\n\n    </style>\n</head>\n<body>\n<div class=\"shell\">\n    <div class=\"box\">\n        <div class=\"ball\"></div>\n        <div class=\"shadow\"></div>\n    </div>\n    <div class=\"box\">\n        <div class=\"ball\"></div>\n        <div class=\"shadow\"></div>\n    </div>\n    <div class=\"box\">\n        <div class=\"ball\"></div>\n    </div>\n</div>\n</body>\n</html>",
+            "tags": []
+        },
+        {
             "id": "http://hcq-sky.github.io/2023/03/23/programming/community/",
             "url": "http://hcq-sky.github.io/2023/03/23/programming/community/",
             "title": "墨韵画社",

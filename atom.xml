@@ -8,12 +8,165 @@
     <author>
       <name>North-Zero</name>
     </author>
-    <updated>2023-03-23T10:22:00.000Z</updated>
+    <updated>2024-04-14T05:37:15.000Z</updated>
     <category term="笔记" />
     <category term="编程" />
     <category term="绘画" />
     <category term="theme" />
     <category term="North-Zero" />
+    <entry>
+        <id>http://hcq-sky.github.io/2024/04/14/system02/</id>
+        <title>Oracle部分笔记</title>
+        <link rel="alternate" href="http://hcq-sky.github.io/2024/04/14/system02/"/>
+        <content type="html">&lt;h1 id=&#34;markdownnote&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdownnote&#34;&gt;#&lt;/a&gt; MarkdownNote&lt;/h1&gt;
+&lt;p&gt;在此简单对 Oracle 做个记录&lt;/p&gt;
+</content>
+        <category term="Computer Basics" scheme="http://hcq-sky.github.io/categories/programming/" />
+        <updated>2024-04-14T05:37:15.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://hcq-sky.github.io/2023/05/05/exercise/</id>
+        <title></title>
+        <link rel="alternate" href="http://hcq-sky.github.io/2023/05/05/exercise/"/>
+        <content type="html">&lt;html lang=&#34;en&#34;&gt;
+&lt;head&gt;
+    &lt;meta charset=&#34;UTF-8&#34;&gt;
+    &lt;meta http-equiv=&#34;X-UA-Compatible&#34; content=&#34;IE=edge&#34;&gt;
+    &lt;meta name=&#34;viewport&#34; content=&#34;width=device-width, initial-scale=true&#34;&gt;
+    &lt;title&gt;Title&lt;/title&gt;
+    &lt;style&gt;
+        body {
+            background-image: linear-gradient(to bottom right,
+                    #91defe,
+                    #99c0f9,
+                    #bdb6ec,
+                    #d7b3e3,
+                    #efb3d5,
+                    #f9bccc);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            overflow: hidden;
+        }
+
+        .box {
+            position: absolute;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 500px;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+
+        .ball {
+            animation: float 3.5s ease-in-out infinite;
+            height: 200px;
+            width: 200px;
+            border-radius: 50%;
+            position: relative;
+            background: radial-gradient(circle at 77% 30%,
+            white 5px,
+            aqua 8%,
+            darkblue 60%,
+            aqua 100%);
+            box-shadow: inset 0 0 20px #fff,
+            inset 10px 0 46px #eaf5fc,
+            inset 88px 0px 60px #c2d8fe,
+            inset -20px -60px 100px #fde9ea,
+            inset 0 50px 140px #fde9ea,
+            0 0 90px #fff;
+        }
+
+        .box:nth-child(2) {
+            z-index:-999;
+        }
+
+        .box:nth-child(2).ball{
+            left: -80px;
+            top: 35px;
+            width: 100px;
+            height: 100px;
+            z-index: -999;
+            opacity: .5;
+        }
+
+        .box:nth-child(3).ball{
+            left: 80px;
+            top: -80px;
+            width: 20px;
+            height: 20px;
+            opacity: .1;
+        }
+
+        .shadow{
+            background: #b490b27c;
+            width: 150;
+            height: 40px;
+            top: 70%;
+            animation: expand 4s infinite;
+            position: absolute;
+            border-radius: 50%;
+        }
+
+        .box:nth-child(2).shadow{
+            width: 90px;
+            height: 20px;
+            top: 72.5%;
+            left: -75px;
+            opacity: .4;
+        }
+        
+        @keyframes float{
+            0% {
+                transform: translateY(0px) rotate(-10deg);
+            }
+
+            50% {
+                transform: translateY(-80px) rotate(10deg);
+            }
+
+            100%{
+                transform: translateY(0px) rotate(-10deg);
+            }
+        }
+
+        @keyframes expand {
+            
+            0%,
+            100% {
+                transform: scale(0.5);
+            }
+
+            50% {
+                transform: scale(1);
+            }
+        }
+
+    &lt;/style&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;div class=&#34;shell&#34;&gt;
+    &lt;div class=&#34;box&#34;&gt;
+        &lt;div class=&#34;ball&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;shadow&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;box&#34;&gt;
+        &lt;div class=&#34;ball&#34;&gt;&lt;/div&gt;
+        &lt;div class=&#34;shadow&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;box&#34;&gt;
+        &lt;div class=&#34;ball&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;</content>
+        <updated>2023-05-05T06:38:12.258Z</updated>
+    </entry>
     <entry>
         <id>http://hcq-sky.github.io/2023/03/23/programming/community/</id>
         <title>墨韵画社</title>
